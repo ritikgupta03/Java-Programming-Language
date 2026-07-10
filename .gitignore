@@ -1,0 +1,17 @@
+# IntelliJ IDEA
+.idea/
+
+# Build output
+out/
+
+# IntelliJ project file
+*.iml
+
+# Java compiled files
+*.class
+
+# Windows
+desktop.ini
+
+# Logs
+*.log
