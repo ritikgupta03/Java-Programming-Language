@@ -1,40 +1,75 @@
 # Java Programming Language
 
-Welcome to my Java Programming repository.
+This repository contains my Java programs and Data Structures & Algorithms (DSA) practice.
 
-This repository contains my Java programs and my daily Data Structures & Algorithms (DSA) practice. I use this repository to improve my problem-solving skills and keep track of my learning journey.
+I created this repository to track my learning journey, improve my problem-solving skills, and maintain consistency by uploading my Java code regularly.
 
-## About
+---
 
-- Language: Java
-- Purpose: Learning Java and practicing DSA
-- Goal: Become better at problem solving through consistent practice
+## 📚 Current Topics
 
-## Topics Covered
-
+- Java Basics
+- Functions & Methods
 - Arrays
-- Binary Search
+- ArrayList
+- Strings
 - Recursion
+- Linked List
+- Stacks
+- CRT Training
 
-> More topics will be added as I continue learning.
+More topics will be added as I continue learning.
 
-## Repository Structure
+---
+
+## 📁 Repository Structure
 
 ```
 Java Programming Language/
-│
+├── Java Basic/
+├── Function & Methods/
 ├── Arrays/
-├── Binary Search/
+├── Arrays_Basic/
+├── Array_List/
+├── Strings/
 ├── Recursion/
+├── Linked_List/
+├── Stacks/
+├── CRT_TRANING/
 └── README.md
 ```
 
-## Learning Journey
+---
 
-I regularly solve coding problems and upload my solutions to this repository. New files will be added as I learn new concepts and solve more questions.
+## 🎯 Objective
 
-## Author
+- Learn Java Programming
+- Practice Data Structures & Algorithms
+- Write clean and understandable code
+- Improve problem-solving skills
+- Stay consistent with daily coding
+
+---
+
+## 💻 Language
+
+- Java
+
+---
+
+## 🚀 Repository Updates
+
+This repository is updated regularly with new Java programs and DSA solutions as I continue my learning journey.
+
+---
+
+## 👨‍💻 Author
 
 **Ritik Gupta**
 
 - GitHub: https://github.com/ritikgupta03
+- LinkedIn: https://www.linkedin.com/in/ritikgupta-dev
+
+---
+
+⭐ If you find this repository useful, feel free to explore it.
