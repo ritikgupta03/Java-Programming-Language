@@ -21,3 +21,5 @@ public class PrintSubSetsInArrayList {
         subsets(ans,s,idx+1,list); //skip---
     }
 }
+//output-----------
+//[abc, ab, ac, a, bc, b, c, ]
